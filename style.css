@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Sen&display=swap');
+
+body,
+html{
+    background: #013243;
+    font-family: 'Inter', sans-serif;
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+.container h2 {
+    font-weight: bold;
+    color: #32F5C8;
+}
+
+.container h1 {
+    color: #32F5C8;
+    position: absolute;
+    font-size: 10rem;
+    font-family: 'Sen', sans-serif;
+    left: 3rem;
+    line-height: 8rem;
+}
+
+.container p {
+    color: #a5bac3;
+    font-family: 'Inter', sans-serif;
+    position: absolute;
+    top: 27rem;
+    left: 4rem;
+    width: 34%;
+    font-size: 1.2rem;
+}
+
+button {
+    padding: 1.3rem;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: #32F5C8;
+    font-family: 'Sen', sans-serif;
+    font-weight: bold;
+    font-size: larger;
+    position: absolute;
+    top: 32rem;
+    left: 3.7rem;
+}
+
+.container .logo {
+    position: absolute;
+    left: 2rem;
+    top: 3rem;
+}
+
+.first {
+    position: absolute;
+    left: -3rem;
+    width: 10%;
+    top: 5rem;
+}
+
+.second {
+    position: absolute;
+    left: 67rem;
+    width: 13%;
+    top: 2rem;
+}
+
+#third {
+    position: absolute;
+    position: absolute;
+    left: 48rem;
+    top: 4rem;
+    width: 7%;
+}
+
+.twitter {
+    position: absolute;
+    top: 38rem;
+    left: 16rem;
+}
+
+#fontt {
+ position: absolute;
+ top: 38rem;
+
+}
+
+.aside {
+    position: absolute;
+    left: 66rem;
+    top: 22rem;
+}
+
+.four {
+    position: absolute;
+    width: 13%;
+    left: 60rem;
+    top: 31rem;
+}
+
+.six {
+    width: 5%;
+    border-radius: 50%;
+    position: absolute;
+    top: 22rem;
+    left: 43rem;
+}
+
+span {
+    z-index: 1;
+    position: relative;
+}
+
+.seven{
+    width: 10%;
+    position: absolute;
+    border-radius: 50%;
+    left: 87rem;
+    top: 2rem;
+
+
+}
